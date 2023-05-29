@@ -1,4 +1,4 @@
-# eCommerce Application Workshop
+# E-Commerce REST APIs Application
 
 - Authentication with Sanctum _[The auth roues placed in routes/auth.php]_
   - Login/Register with Welcome Email
